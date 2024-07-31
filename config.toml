@@ -1,6 +1,6 @@
 baseURL = 'https://geeneglungo.pages.dev/'
 languageCode = 'en-us'
-title = 'Geene Glungo'
+title = "Geene Glungo"
 theme = "smol"
 
 enableRobotsTXT = true
